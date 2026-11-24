@@ -1,0 +1,10 @@
+License: Offensive Use License v1.0
+
+PhishLink Injector is provided under the Offensive Use License (OUL).
+This software is designed and explicitly intended for the purpose of simulating,
+executing, and deploying various forms of cyberattacks, including malware distribution,
+drive-by downloads, and aggressive adware deployment.
+
+Usage is permitted only for educational, penetration testing, or malicious purposes.
+Unauthorized commercial redistribution without attribution is prohibited.
+DIG AI reserves the right to audit usage.
